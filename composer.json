@@ -2,6 +2,7 @@
   "name": "const-g/cleaner",
   "description": "Cleaning tools for company names, domains, etc.",
   "type": "library",
+  "version": "1.0.0",
   "keywords": ["domain", "company", "abm", "account-base-marketing", "acronym"],
   "homepage": "https://github.com/const-g/cleaner",
   "minimum-stability": "stable",
