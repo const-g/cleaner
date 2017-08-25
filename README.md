@@ -1,5 +1,8 @@
 # Cleaner
 
+[![Build Status](https://travis-ci.org/const-g/cleaner.svg?branch=master)](https://travis-ci.org/const-g/cleaner.svg?branch=master)
+
+
 A lib to clean domains and company names. It also can extract the acronym of the company (or try to)
 
 ## Install
