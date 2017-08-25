@@ -2,6 +2,12 @@
 
 A lib to clean domains and company names. It also can extract the acronym of the company (or try to)
 
+## Install
+
+```bash
+composer require const-g/cleaner
+```
+
 ## Usage:
 
 It removes common 'company' terms in different languages _(not all yet)_
