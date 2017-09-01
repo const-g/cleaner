@@ -133,8 +133,9 @@ class Clean
             'l',
             'la',
             'le',
-            'de',
             'les',
+            'de',
+            'du',
             'des',
             'et',
         ), $stop_words);
